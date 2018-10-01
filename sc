@@ -1,8 +1,4 @@
 #!/bin/bash
-#if [ "$1" = "sc" ]
-#then
-#       echo "hi"
-#fi
 cd /usr/local/bin
 if [ -f $1 ]
 then
